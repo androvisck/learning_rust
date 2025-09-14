@@ -1,2 +1,2 @@
 # learning_rust
-Starting my studies on rust
+Starting my studies on rust.
